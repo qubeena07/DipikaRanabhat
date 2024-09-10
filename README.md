@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Web Development and Backend**
 
-- 👨‍💻 All of my projects are available at [https://www.ranabhatdipika.com.np/](https://www.ranabhatdipika.com.np/)
-
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **qubeena7@gmail.com**
