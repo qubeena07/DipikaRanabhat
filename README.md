@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipika Ranabhat</h1>
-<h3 align="center">A mobile application developer from Nepal</h3>
+<!-- <h3 align="center">A mobile application developer from Nepal</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qubeena07&label=Profile%20views&color=0e75b6&style=flat" alt="qubeena07" /> </p>
