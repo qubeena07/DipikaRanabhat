@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qubeena07&label=Profile%20views&color=0e75b6&style=flat" alt="qubeena07" /> </p>
 
-- 🌱 I’m currently learning **Web Development and Backend**
+- 🌱 I’m currently learning **Machine Learning and DevOps**
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **qubeena7@gmail.com**
+- 📫 How to reach me **dipika.ranabhat2001@gmail.com**
 
-- ⚡ Fun fact **I'm into musics**
+- ⚡ Fun fact **I'm into learning things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
